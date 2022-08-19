@@ -1,8 +1,6 @@
 # simpleGoWebServer
 A simple go web server like a python webserver!
 
-![example workflow](https://github.com/delta549/simpleGoWebServer/actions/workflows/main.yml/badge.svg)
-
 ## Build
 
 ```
